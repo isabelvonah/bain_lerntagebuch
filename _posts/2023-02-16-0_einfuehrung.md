@@ -21,5 +21,5 @@ Hinzu kommen, und darin unterscheiden sich die Studierenden des Kurses zum Teil,
 
 Ich erwarte von diesem Kurs, dass er oben genannte Aspekte vereint, für die archiv- und bibliothekswissenschaftlichen Berufe der Informationswissenschaft praktische Hilfestellungen bietet und Erfahrungen gemacht werden können. Mein Ziel ist es, dass ich das immer wieder verwendete Schaubild am Ende des Kurses besser verstehen und erklären kann.
 
-![[Pasted image 20230628091547.png]]
+![beschrrriiiib](https://isabelvonah.github.io/bain_lerntagebuch/images/0_1.png)
 

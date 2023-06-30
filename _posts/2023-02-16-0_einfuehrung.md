@@ -1,5 +1,5 @@
 ---
-title: "Einführungsartikel: Was bringe ich mit und was erwarte ich vom Kurs"
+title: "0 Einführungsartikel: Was bringe ich mit und was erwarte ich vom Kurs"
 date: 2023-02-16
 ---
 Das Modul _Bibliotheks- und Archivinformatik_ besuchen wir (die Vollzeitklasse in Chur) im sechsten Semester des Bachelor-Studiengangs [_Information Science_](https://www.fhgr.ch/studium/bachelorangebot/wirtschaft-und-dienstleistung/information-science/). Nur noch vier bis fünf Module stehen uns in diesem Frühlingssemester bevor und die Bachelorarbeit. Dementsprechend liegen schon viele Fächer hinter uns, einige davon solche, die für BAIN relevant sein könnten. Einerseits gab es informationswissenschaftliche Grundlagenfächer:
